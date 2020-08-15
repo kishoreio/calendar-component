@@ -21,7 +21,7 @@ export const months = [
 const years = [];
 
 // generating years for a given range
-for (let i = 1990; i < 2030; i++) {
+for (let i = 1900; i < 3000; i++) {
   years.push(i);
 }
 
